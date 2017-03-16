@@ -12,6 +12,7 @@
 */
 
 Route::get('/', "HomeController@Index");
+Route::post('/', 'HomeController@Contact');
 
 Auth::routes();
 
