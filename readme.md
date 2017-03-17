@@ -6,7 +6,7 @@ Installing:
 $ composer install
 
 
-Rename the .envexample to .env, and remember to configure your database and Cloudinary configuration in this file.
+Rename the .envexample to .env, and remember to configure your database and Cloudinary access information in this file.
 
 Generate a new application key after create the .env file, with this command:
 
