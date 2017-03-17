@@ -16,6 +16,7 @@ After configuring the database, execute this command to make the migrations and 
 (Basically insert the data in database)
 
 > $ php artisan migrate
+
 > $ php artisan db:seed
 
 Then, we need to install our node_modules using:
