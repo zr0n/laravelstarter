@@ -1,5 +1,5 @@
-# Laravel Starter
-## A simple CMS start pack to your projects
+# Laravel CMS Starter
+## A simple CMS starter pack to your projects
 
 Installing:
 
